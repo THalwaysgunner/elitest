@@ -2,7 +2,7 @@
 
 
 def addition(a,b):
-    print("shinui")
+    print("binui")
 
     print("second push")
     return a+b
